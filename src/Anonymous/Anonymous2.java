@@ -1,10 +1,10 @@
-package Abstract;
+package Anonymous;
 
 interface AbleToEat {
     public void eat();
 }
 
-public class Abstract2 {
+public class Anonymous2 {
     public static void main(String[] args) {
         AbleToEat ableToEat = new AbleToEat() {
             @Override

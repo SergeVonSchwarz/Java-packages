@@ -1,6 +1,6 @@
-package Abstract;
+package Anonymous;
 
-public class Abstract1 {
+public class Anonymous1 {
     public static void main(String[] args) {
         Animal animal = new Animal();
         animal.eat();
